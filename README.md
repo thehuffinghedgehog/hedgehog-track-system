@@ -11,7 +11,6 @@ If you have the suitable skill set to assist I would love to hear from you
 
 Please read the attached pdf file for the original concepts document
 
-[PP Tracking system overview.pdf](https://github.com/rhubarbthehedgehog/hedgehog-track-system/files/7755350/PP.Tracking.system.overview.pdf)
 
 
 Thanks
